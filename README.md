@@ -6,6 +6,7 @@
 <li>Открыв Git Bash, сменить директорию на желаемую с помощью команды <code>cd <i>path</i></code></li>
 <li>Скопировать HTTPS репозитория, нажав на <i>Code</i> на странице в GitHub</li>
 <li>Клонировать данный репозиторий в выбранную директорию: <code>git clone <i>https</i></code></li>
+<li>Вновь сменить директорию с помощью <code>cd gis-programming-class</code>, получив доступ к репозиторию</li>
 <li>Выбрать соответствующую ветку с помощью <code>git fetch origin <i>assignment_n</i></code></li>
 <li>Переключиться на неё с помощью команды <code>git switch <i>assignment_n</i></code></li>
 <li>Унаследоваться от этой ветки с нужным заданием: <code>git checkout -b <i>n_lastname</i></code></li>
